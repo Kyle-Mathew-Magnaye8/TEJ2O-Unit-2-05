@@ -2,7 +2,7 @@
  *
  * Created by: Kyle Matthew
  * Created on: Feb 2026
- * This program can roll a 6 sided dice.
+ * This program shows the temperature into Kelvin.
 */
 
 // our variables
